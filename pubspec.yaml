@@ -80,20 +80,13 @@ fonts:
   - family: Poppins
     fonts:
       - asset: assets/fonts/Poppins-Regular.ttf
-      - asset: asset/fonts/Poppins-Italic.ttf
       - asset: asset/fonts/Poppins-Black.ttf
       - asset: asset/fonts/Poppins-Bold.ttf
-      - asset: asset/fonts/Poppins-BoldItalic.ttf
       - asset: asset/fonts/Poppins-ExtraBold.ttf
-      - asset: asset/fonts/Poppins-ExtraBoldItalic.ttf
       - asset: asset/fonts/Poppins-ExtraLight.ttf
-      - asset: asset/fonts/Poppins-ExtraLightItalic.ttf
       - asset: asset/fonts/Poppins-Medium.ttf
-      - asset: asset/fonts/Poppins-MediumItalic.ttf
       - asset: asset/fonts/Poppins-SemiBold.ttf
-      - asset: asset/fonts/Poppins-SemiBoldItalic.ttf
       - asset: asset/fonts/Poppins-Thin.ttf
-      - asset: asset/fonts/Poppins-ThinItalic.ttf
 #        style: italic
   #   - family: Trajan Pro
   #     fonts:
